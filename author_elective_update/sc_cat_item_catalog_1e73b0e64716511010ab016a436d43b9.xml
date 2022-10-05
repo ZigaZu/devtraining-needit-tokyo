@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Admin Training">4763302a4716511010ab016a436d437e</sc_cat_item>
+        <sc_catalog display_value="Training Catalog">cd72b4664716511010ab016a436d43c5</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 10:25:12</sys_created_on>
+        <sys_id>1e73b0e64716511010ab016a436d43b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Training Catalog.Admin Training</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1e73b0e64716511010ab016a436d43b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-05 10:25:12</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2034d770dbfb574ccbf6d5b0cf961904</instance_id>
+        <instance_name>dev69196</instance_name>
+        <name>sc_cat_item_catalog_1e73b0e64716511010ab016a436d43b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Admin Training">4763302a4716511010ab016a436d437e</sc_cat_item><sc_catalog display_value="Training Catalog">cd72b4664716511010ab016a436d43c5</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-05 10:25:12</sys_created_on><sys_id>1e73b0e64716511010ab016a436d43b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Training Catalog.Admin Training</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_catalog_1e73b0e64716511010ab016a436d43b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-05 10:25:12</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-855801071</payload_hash>
+        <record_name>Training Catalog.Admin Training</record_name>
+        <reverted_from/>
+        <source>866665684752111010ab016a436d43e2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 10:25:12</sys_created_on>
+        <sys_id>1273342a4716511010ab016a436d4378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a7ad8d3f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-05 10:25:12</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>5a73342a70165110f60a530c13239877</update_guid>
+        <update_guid_history>5a73342a70165110f60a530c13239877:-855801071</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Training Catalog.Admin Training">f6b5f8aa4716511010ab016a436d4326</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 10:35:04</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>11fb376f04114d63822d2b3c19f7cfd9</sys_id>
+        <sys_metadata>1e73b0e64716511010ab016a436d43b9</sys_metadata>
+        <sys_name>Training Catalog.Admin Training</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">4763302a4716511010ab016a436d437e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_1e73b0e64716511010ab016a436d43b9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_1e73b0e64716511010ab016a436d43b9">1273342a4716511010ab016a436d4378</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
